@@ -1,3 +1,6 @@
 aiohttp
 pyppeteer
 apscheduler
+selenium
+webdriver_manager
+pypinyin
