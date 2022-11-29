@@ -61,3 +61,7 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
+
+    # 上面的 asyncio.run 等价于下面两行
+    # future = asyncio.ensure_future(main())
+    # asyncio.get_event_loop().run_until_complete(future)
