@@ -4,3 +4,5 @@ apscheduler
 selenium
 webdriver_manager
 pypinyin
+numpy
+jieba
